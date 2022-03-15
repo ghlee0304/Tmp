@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<body>
+  <fieldset name="interest">
+    <legend>관심분야(1개이상)</legend>
+    <input type="checkbox" name="interest" value="1" />디지털 콘텐츠
+    <input type="checkbox" name="interest" value="2" />웹프로그래밍
+    <input type="checkbox" name="interest" value="3" />데이터베이스
+    <input type="checkbox" name="interest" value="4" />기계학습
+  </fieldset>
+</body>
+
+
