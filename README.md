@@ -1,6 +1,6 @@
 # 22.01.23
 - [22.01.23]
-  * [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis] (#msemotts)
+  * [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis](#msemotts)
  
 ## [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis](https://arxiv.org/pdf/2201.06460.pdf) <a name="msemotts"></a>
 ![https://github.com/ghlee0304/Technical_Reposit/blob/master/MsEmoTTSMulti-scale%20emotion%20transfer1.PNG?raw=true](https://github.com/ghlee0304/Technical_Reposit/blob/master/MsEmoTTSMulti-scale%20emotion%20transfer1.PNG?raw=true)
