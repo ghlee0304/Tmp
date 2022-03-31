@@ -1,8 +1,8 @@
 # 22.01.23
-- [22.01.23](#220123)
-  * [[MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis]
+- [22.01.23]
+  * [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis] (#msemotts)
  
-## [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis](https://arxiv.org/pdf/2201.06460.pdf) <a name="220123"></a>
+## [MsEmoTTS: Multi-scale emotion transfer, prediction, and control for emotional speech synthesis](https://arxiv.org/pdf/2201.06460.pdf) <a name="msemotts"></a>
 ![https://github.com/ghlee0304/Technical_Reposit/blob/master/MsEmoTTSMulti-scale%20emotion%20transfer1.PNG?raw=true](https://github.com/ghlee0304/Technical_Reposit/blob/master/MsEmoTTSMulti-scale%20emotion%20transfer1.PNG?raw=true)
     - Sample URL : [https://leiyi420.github.io/MsEmoTTS/](https://leiyi420.github.io/MsEmoTTS/)
     1. Goal : expressive emotion speech synthesis 를 위한 TTS 모델을 제안
